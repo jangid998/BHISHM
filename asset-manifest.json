@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/bhishm/static/css/main.fa5e97cc.css",
+    "main.js": "/bhishm/static/js/main.659fe247.js",
+    "index.html": "/bhishm/index.html",
+    "main.fa5e97cc.css.map": "/bhishm/static/css/main.fa5e97cc.css.map",
+    "main.659fe247.js.map": "/bhishm/static/js/main.659fe247.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fa5e97cc.css",
+    "static/js/main.659fe247.js"
+  ]
+}
