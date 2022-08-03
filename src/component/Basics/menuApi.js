@@ -19,7 +19,7 @@ const Menu = [
     },
     {
       id: 3,
-      image: "../images/toilet cleaner250.jpg",
+      image: "images/toilet cleaner250.jpg",
       name: " Bhishm toilet cleaner 250ML",
       category: "Toilet Tleaner",
       price: "35₹",
@@ -28,7 +28,7 @@ const Menu = [
     },
     {
         id: 4,
-        image: "../images/toilet cleaner500.jpg",
+        image: "images/toilet cleaner500.jpg",
         name: " Bhishm toilet cleaner 500ML",
         category: "Toilet Tleaner",
         price: "70₹",
