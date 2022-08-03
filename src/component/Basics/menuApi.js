@@ -10,8 +10,8 @@ const Menu = [
   },
     {
       id: 2,
-      image: "images/bhishm power.jpg",
-      name: "Bhishm Detergent Power",
+      image: "images/bhishm powder.jpg",
+      name: "Bhishm Detergent Powder",
       category: "detergent power",
       price: "55₹",
       description:
